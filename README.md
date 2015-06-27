@@ -10,7 +10,7 @@ compiled from SASS.
 
 ### Installation
 
-Add `"django_gulp"` to your `INSTALLED_APPS` setting like this:
+Add `"django_gulp"` to your `INSTALLED_APPS` setting like this (It needs to be the first item in the tupple) :
 
 ```
 INSTALLED_APPS = (
